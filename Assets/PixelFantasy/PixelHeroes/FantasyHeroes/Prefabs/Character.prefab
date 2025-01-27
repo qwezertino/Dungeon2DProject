@@ -105,9 +105,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Input: {x: 0, y: 0}
   IsGrounded: 1
-  Acceleration: 40
-  MaxSpeed: 8
-  JumpForce: 1000
+  Acceleration: 20
+  MaxSpeed: 4
+  JumpForce: 500
   Gravity: 70
 --- !u!114 &8053676341395069874
 MonoBehaviour:
